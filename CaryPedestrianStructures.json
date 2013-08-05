@@ -7550,56 +7550,6 @@
                     0
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "FID": 151,
-                "STR_ID": "OXG-01A",
-                "NUMBERID": 150,
-                "FACILITY": "Oxxford Hunt Clubhouse",
-                "CROSSES": " ",
-                "TRAIL_TYPE": " ",
-                "TYPE": " ",
-                "STATUS": " ",
-                "PRIVATE": "private",
-                "INSERVICE": "yes",
-                "MAINTAINED": "OXXFORD HUNT COMMUNITY ASSOC INC",
-                "PROJECTNUM": " ",
-                "CONST_BY": " ",
-                "LENGTH": 0,
-                "WIDTH": 0,
-                "HEIGHT": 0,
-                "DECKING": " ",
-                "BRIDGE": " ",
-                "INSP_YEAR": 0,
-                "NEXT_YR": 0,
-                "INSP_YR": 0,
-                "INSPECTION": null,
-                "GENCONDRAT": " ",
-                "CONDITION": " ",
-                "INV_PRIOR": " ",
-                "FRACTURE": " ",
-                "SCOUR": " ",
-                "PARK": " ",
-                "PHOTO1": " ",
-                "INV_BY": " ",
-                "DATE_INV": null,
-                "NOTES": " ",
-                "DATECONSTR": null,
-                "YR_CONST": " ",
-                "LIMIT_LB": " ",
-                "INSP_NOTE": " ",
-                "EASTING": 0,
-                "NORTHING": 0
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0,
-                    0
-                ]
-            }
         }
     ]
 }
