@@ -243,30 +243,5 @@
         ]
       ]
     }
-  ],
-  "data": [
-    {
-      "sale_id": null,
-      "parcel_no": "22123947.",
-      "property_class_code": 401,
-      "sale_date": "2016-03-02T00:00:00",
-      "sale_price": 1.0,
-      "address_number": null,
-      "address_dir": null,
-      "street_name": null,
-      "zipcode": null,
-      "block_geo_id": "261635413003008",
-      "block_name": "Block 3008",
-      "block_group_name": "Block Group 3",
-      "census_tract_geo_id": "26163541300",
-      "census_tract_name": "Census Tract 5413",
-      "council_district_name": "Council District 1",
-      "city_name": "Detroit",
-      "county_name": "Wayne County",
-      "state_name": "Michigan",
-      "property_class_type": "RESIDENTIAL",
-      "residential": true,
-      "neighborhood_name": "Redford"
-    }
   ]
 }
